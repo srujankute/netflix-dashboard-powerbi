@@ -38,7 +38,7 @@ Below are screenshots of the completed dashboard pages showing the finalized lay
 
 ### Page 1: Executive Summary
 *(Tip: Upload your Page 1 screenshot to GitHub and paste the image link right below this line)*
-* Add your image tag here: `![Executive Summary]([your_image_link_1.png](https://github.com/srujankute/netflix-dashboard-powerbi/blob/main/Executive%20Summary.png))`
+https://github.com/srujankute/netflix-dashboard-powerbi/blob/main/Executive%20Summary.png
 
 ### Page 2: Deep-Dive Analysis
 *(Tip: Upload your Page 2 screenshot to GitHub and paste the image link right below this line)*
