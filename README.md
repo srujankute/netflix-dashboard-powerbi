@@ -37,8 +37,7 @@ To find the definitive "all-time best" titles on the platform, I created a combi
 Below are screenshots of the completed dashboard pages showing the finalized layout and metrics:
 
 ### Page 1: Executive Summary
-*(Tip: Upload your Page 1 screenshot to GitHub and paste the image link right below this line)*
-`![Executive Summary](https://github.com/srujankute/netflix-dashboard-powerbi/blob/main/Executive%20Summary.png)`
+![Executive Summary](https://github.com/srujankute/netflix-dashboard-powerbi/blob/main/Executive%20Summary.png).
 ### Page 2: Deep-Dive Analysis
 *(Tip: Upload your Page 2 screenshot to GitHub and paste the image link right below this line)*
 * Add your image tag here: `![Deep-Dive Analysis](your_image_link_2.png)`
